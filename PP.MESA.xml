@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Luz de Máscaras</title>
+            <author></author>
+            <editor>MesaZuluaga JuanJosé</editor>
+            <editor>Andrea Rodriguez-Arevalo</editor>
+            <editor>Salomé Arango-Botero</editor>
+                                </titleStmt>
+         <publicationStmt>
+            <p>Digitalización Recopilación Revista MITO (ISSN 0540-4657) Tomo VI.</p>
+         </publicationStmt>
+         <sourceDesc>
+         <bibl>
+         <pubPlace>Bogotá</pubPlace>
+         <publisher></publisher>
+         <date when="1959-12">1959</date>
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="Chapter">
+         <head>Roma</head>
+         <p>Resulta muy curioso comprobar que la primera estatua en alto relieve que haya sido encontrada en territorio itálico es la de un guerrero enmascarado. Se trata del enigmático guerrero de Capestrano,descubierto en 1934, sobre el territorio de los antiguos *Vestini*. La obra, cuya altura es de 2m 9 y que data del final del siglo VI antes de Cristo, representa quizá la imagen de un guerrero que fue objeto de una *devotio*, es decir, cuya vida fue ofrecida a los dioses para la salvación de su ejército, pero que no encontró la muerte hundiéndose en las filas del enemigo, como el rito —descrito cuidadosamente por Tito Livio— lo exigia. En tal caso, según la costumbre sagrada de los latinos, sin duda común con los otros pueblos itálicos, habia que enterrar una estatua de site pies y ofrecer un sacrificio solemne. La estatua de Capestrano, que representa un guerrero enjaezado y equipado y cuya talla es efectivamente de siete pies, podría surgir de esta antigua práctica de substitución que ofrecía a los dioses, en cambio de la vida, la imagen del *devotus*.</p>
+         <p>La máscara de origen dionisiaco aparece en cantidad de obras diversas, tierras cocidas arquitectónicas, *oscilla*, vasos, sarcófagos .báquicos. El tema, ciertamente, se estereotipó rápidamente y a menudo no posee más que un valor ornamental. En cambio, la máscara conserva su valor báquico cuando está asociada a objetos del culto de Dionysos o a personajes del cortejo del Dios. Sobre los admirables frescos de la Mansión de los Misterios, en Pompeya, encima de un sileno que se aparta hay una máscara de sileno, sostenida con todo el brazo por un joven sátiro, mientras que otro sátiro parece mirar el reflejo en una copa rebosante de líquido o beber en la copa.</p>
+         <p><name type="personAddName">Raymodn Bloch</name></p>
+         </div>
+
+         <div>
+         <head>El Carnaval</head>
+         <p>Como en latín *larva* que designa al mismo tempo el espectro y su disfraz, la palabra *máscara*, en italiano *maschera*, debió designar antiguamente una creación fantomática de carácter demoníaco. La noción ha sido asociada largo tiempo a las manifestaciones diabólicas: *larvas daemonun*, de las cuales se preocupaban los sínodos y los concilios. Contiene algo de sospechoso y peligroso, y según un proceso más o menos general, demuestra la supervivencia de las creencias populares en el seno de la civilización cristiana. Esta asociación de la naturaleza diabólica y de la máscara (que desfigura y disimula) parece fundamental: El diablo es una criatura de mil caras, y de aquí los demonios con rostros múltiples en los decorados de las catedrales o las figuras de doble apariencia (como el célebre *Principe de este Mundo*, en la Catedral de Estrasburgo) o las cabezas gesticulantes y los seres híbridos que las portan, muy frecuentes en todo el arte /medioeval/. Inversamente, todo lo que concierne al disfraz y a la máscara debe a tal origen un carácter ambiguo y un poco irritante. </p>
+         <p>En la civilización moderna y cristiana, las jornadas de locura y exaltación (del Carnaval) perpetúan prácticas arcaicas, recuerdos históricos, que cambian en Roma o en las ciudades del antiguo Estado de Borgoña, en Polonia, México o América del Sur. Su lenta muerte en el siglo pasado, su preservación o su resurrección en épocas recientes, no han facilitado la localización de sus elementos auténticos. Pero fuera de la naturaleza de los "argumentos", de los temas más o menos tradicionales que se usan en su organización, la máscara desempeña su papel habitual de autorización dada a toda licencia. Significa una liberación de nuestra segunda naturaleza, truculenta, febril y provisional, que se evade de las normas cotidianas y permite todo to que normalmente se halla prohibido.</p>
+         <p><name type="personAddName"></name>André Chastel</p>
+         </div>
+
+         <div>
+         <head>LA Máscara del Diablo</head>
+         <p>...El alto sombrero, las ropas negras, las jarreteras notorias y aun los zapatos de pezuña, pudieron usarse por el sumo sacerdote, humano vehículo del Demonio, para la más o menos convencional aparición a su rebaño. Posiblemente usaba también una máscara no muy elaborada. Pero las apariciones con disfraz completo requerían más terrible mecánica.</p>
+         <p>La máscara era, en tempranas épocas, parte del atuendo de cabeza del jefe de la danza totémica. A veces, aún hoy, un brujo asume el esqueleto auténtico de un cráneo de animal, con los cuernos adheridos. Es interesante anotar la memoria popular Irlandesa de las brujas —los Formóricos— que dice que vinieron a través del mar desde Africa como monstruos con las cabezas de caballos o machos cabrios. Del Tibet a /Sud/ América el hechicero usa todavía máscara de elaborado poder de espanto, como un símbolo de su poder y de su profesión. Aún la mitra de los Obispos cristianos se ha hecho derivar apócrifamente de la cabeza de pez de los sacerdotes de Dagón. Frecuentemente, la máscara de hoy lleva cuernos, y —lo que es significativo cuando se recuerda la idea dualística mezclada con la brujería— tiene a veces dos caras.</p>
+         <p>En el culto medieval, la evidencia de la máscara aparece completa. Ante todo, en hipótesis, es lo que se habría de esperar de una religión con un fuerte ancestro paleolítico. Asi, las prácticas del mundo clásico confirmarían las costumbre, puesto que la máscara era libremente empleada en el teatro Griego y Romano, también de origen religioso. Se supone a veces tenía efectos megafónicos que ayudaban a proyectar la voz a los sitios distantes en los anchos teatros abiertos. En seguida, viene la evidencia de las mismas brujas. Las brujas escocesas decian del Diablo que hablaba "bajo pero fuerte", que su voz era "opaca y cavernosa"; las de Alsacia que "sus Demonios hablaban como si tuviesen la boca en un jarro o cántaro quebrado", o bien "su voz es débil y delgada". Igual cosa es evidente en la analogía de los hechiceros africanos, algunas de cuyas máscaras tienen definitivamente el efecto de megáfonos, en tanto que otras meramente oscurecen y desfiguran la voz. Finalmente, está la "Dorset Ooser", una máscara de madera pintada con cuernos, que se usaba en la cabeza, mientras el resto del cuerpo iba cubierto de piles. Fue robada en los últimos cuarenta años, pero parece claro que había una conexión definida entre ella y la práctica paleolítica, como parte de un ritual rústico. También tenia cuernos.</p>
+         <p>Se describe como normal el uso de máscaras en la "*Fiesta de los Locos*", un rito de la fertilidad cuya continuación se permitió en Europa hasta un período tardío. En ella "sacerdotes y escribanos son vistos con máscaras de rostros monstruosos en horas de trabajo. Danzan en el coro vestidos de mujeres, o de hombres de dudosa calaña, o de trovadores. Cantan canciones protervas. Comen tortas negras en el mismo altar..." Los paralelos son obvios.</p>
+         <p>Pero hay aún otro punto de valor. La palabra *mascota*, signo de buena suerte, tiene casi ciertamente un origen común con máscara y mascarada. Pero la juiciosa Enciclopedia Británica aventura también que se deriva de una palabra portuguesa, *mascotto*, que significa "brujeria”.</p>
+         <p><name type="personAddName">Pennethorne Hughes ("Witchcraft")</name></p>
+         </div>
+      </body>
+  </text>
+</TEI>
