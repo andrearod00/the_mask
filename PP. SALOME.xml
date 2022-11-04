@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>LUZ DE MÁSCARAS</title>
+            <author></author>
+            <editor>Andrea Rodriguez-Arevalo</editor>
+            <editor>MesaZuluaga Juan José</editor>
+            <editor>Salomé Arango-Botero</editor>
+                    </titleStmt>
+         <publicationStmt>
+            <p>Edición basada en la Revista Mito</p>
+         </publicationStmt>
+         <sourceDesc>
+         <bibl>
+         <pubPlace>Bogotá</pubPlace>
+         <publisher></publisher>
+         <date when="1959-12">1959</date>
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="chapter">
+         <head>La máscara política</head>
+         <p>Algunos meses después de la muerte de Mazarino ocurrió un acontecimiento sin ejemplo, y, lo que no es menos extraño, ignorado por todos los historiadores. Se envió en el más grande secreto, al castillo de la Isla Santa Margarita, a un prisionero desconocido, de estatura superior a la ordinaria, joven, y con la apariencia más bella y noble. Este prisionero portaba una máscara cuya barbada tenía resortes de acero que le dejaban libertad de comer con la máscara en el rostro. Había orden de matarlo si se descubría. El marqués de Louvois fue a verle en esta isla, y le habló de pies, con una consideración que mostraba el respeto.</p>
+         <p>Este desconocido fue llevado a la Bastilla, donde fue alojado tan bien como era posible. Nada se le rehusó. Su mayor gusto era el de la ropa de extraordinaria finura, y por los encajes. Tocaba guitarra.</p>
+         <p>El gobernador se sentaba raramente ante él. Un viejo médico de La Bastilla, que a menudo había atendido a este hombre singular en sus enfermedades, decía que jamás había visto su rostro. Era admirablemente proporcionado. Su piel era un tanto morena. Interesaba por el solo sonido de su voz, no se quejaba jamás de su estado, y no dejaba entrever lo que podía ser. Este desconocido murió en 1703, y fue enterrado de noche, en la parroquia de Saint Paul.</p>
+        <p><name type="personAddName">Voltaire</name></p>
+         <p>("Le siecle de Louis XIV")</p>
+         </div>
+         <div type="chapter">
+         <head>El antifaz veneciano</head>
+         <p>… Acudí a la cita una hora antes de lo convenido, y aunque la noche era fría, yo no lo notaba. A la hora precisa vi llegar una barca con dos remeros, y en cuanto tocó la orilla salió de ella una máscara. Habló el barquero de proa, y en seguida se dirigió hasta la estatua. A medida que se aproximaba, mi corazón palpitaba de emoción, pero habiendo observado que la máscara parecía un hombre, evité su encuentro, y me arrepentí de no haber tomado mis pistolas. La máscara dio la vuelta alrededor de la estatua, y acercándose a mí, me tendió una mano amiga; entonces reconocí a mi ángel. Rióse de mi sorpresa, tomó mi brazo y sin hablarnos nos dirigimos hacia mi casa de recreo que distaba solo unos cien pasos del Teatro de San Moisés.</p>
+         <p>Encontré todo dispuesto, según mis deseos; subimos y prontamente me desembaracé de mi disfraz; pero M. M. se entretenía en recorrer todos los rincones de aquella deliciosa estancia en que se veía tan bien acogida. Encantada de que yo contemplase de todas maneras las gracias de su persona, quería que admirase a mi amante con todos sus atavíos. Hallábase sorprendida de la especie de encanto mágico que a pesar de su inmovilidad le hacía ver su encantadora persona bajo mil diferentes puntos de vista. Sus imágenes multiplicadas que los espejos reproducían merced a numerosas bujías colocadas al efecto, le ofrecían un espectáculo nuevo del que no podía separar sus miradas. Sentado sobre un taburete, yo contemplaba extasiado toda la elegancia de su persona. Una casaca de terciopelo rosa bordado de oro, una chupa graciosa bordada de sedas y de una riqueza extrema, pantalón de satín negro; hebillas de brillantes, un solitario de gran valor en el dedo pequeño y en la otra mano una sortija en la que no se observaba sino un pedacito de satín blanco cubierto por un cristal. Su antifaz de blonda negra era de una perfección notable por su finura y su dibujo. Para que yo pudiera observarla mejor, vino a colocarse de pie delante de mí. Regístrele los bolsillos y en ellos encontré una tabaquera de oro, una bombonera adornada de perlas finas, un estuche de oro, un magnífico anteojo, pañuelos de batista de una finura extremada impregnados más bien que perfumados en las más preciosas esencias. Reparé atentamente en la riqueza y el trabajo de sus dos relojes, de sus cadenas, de sus dijes cubiertos de diamantes, y encontré por último una pistola que era una obra inglesa, de acero puro y muy bien pulimentada y concluida.</p>
+         <p>—Todo lo que veo, mi divina amiga, es inferior a tus méritos, pero no puedo menos de expresarte mi admiración por el ser casi adorable que quiere convencerte de que merece ser tu querido.</p>
+         <p>—Eso mismo es lo que me ha dicho cuando le he pedido que me trajera a Venecia, y me dejara.</p>
+         <p>—Diviértete, me ha dicho, y deseo que aquel a quien vas a hacer feliz te convenza de que es digno de ello.</p>
+         <p>—Es un hombre admirable, repito, y cortado sobre un patrón único. Un amante de ese temple es solo en el mundo y siento que no sabré parecerme a él. no sabré parecerme a él, así como temo no poder merecer una dicha que me desvanece.</p>
+         <p>—Permíteme quitarme este disfraz...</p>
+         <p><name type="personAddName">Giacomo Casanova</name></p>
+         <p>("Memorias")</p>
+         </div>
+         <div type="chapter">
+         <head>El sentido de la máscara</head>
+         <p>''...La mujer de ingenio, señora, escoge como traje de Carnaval uno que ingeniosamente revela algo de su espíritu o de su corazón que las convenciones de su vida diaria ocultan; y cuando se pone el desagradable y narigudo antifaz veneciano, está diciéndonos, no solamente que tras él tiene una nariz clásica, sino que tiene mucho más, y muy bien puede ser adorada por cosas distintas de su mera belleza. Así habló el Árbitro de Mascarada: ''Por tu máscara te conoceré''</p>
+         <p><name type="personAddName">Isek Dinesen</name></p>
+         <p>(''Seven Gothic Tales'')</p>
+         </div>
+         <div type="chapter">
+         <head>Los ojos, solamente</head>
+         <p>…Pero lo que estampa en el carnaval su espíritu de fantasía pura, es el dominó de terciopelo, —que confiere a quienes lo llevan el disfraz que cada hombre en su secreto corazón desea por sobre todo. Hacerse anónimo en una muchedumbre anónima, sin revelar sexo ni parentesco, ni siquiera expresión facial—pues la máscara de este hábito de fraile demente deja solo dos ojos, brillando como los ojos de una mujer musulmana o de un oso. Nada más que permita distinguir; los espesos pliegues de su negrura ocultan incluso los contornos del cuerpo. Todo el mundo se vuelve sin caderas, sin pechos, sin rostro. Y ocultos bajo el hábito de carnaval (como un criminal deseo en el corazón, una tentación irresistible, un impulso que parece preordenado) yacen los gérmenes de algo: De una libertad que el hombre raramente ha osado imaginar para sí mismo. Uno se siente en este disfraz, libre para hacer cuanto se quiera sin prohibición. Los mejores asesinatos en la ciudad, los más trágicos casos de identidad equivocada son el fruto del carnaval del año; así como la mayoría de las historias amorosas comienzan o terminan durante esos tres días y noches durante los cuales se nos liberta de la esclavitud de la personalidad, de la servidumbre de nosotros mismos. Una vez dentro del capuchón de terciopelo, la mujer pierde al marido, el marido a la mujer, el amante a la amada. El aire se vuelve quebradizo, con el salitre de peleas y desatinos, de la furia de batallas, de agonizantes búsquedas de toda la noche, de desesperanzas. Nadie puede decir si está bailando con un hombre o una mujer. Las oscuras mareas de Eros, que demandan total secreto si van a inundar el alma humana, irrumpen durante el carnaval como algo por largo tiempo condenado, y alzan las formas de extrañas criaturas primitivas —las perversiones que son, supongo, el alimento de la psiquis— en formas que se pensaría que pertenecieron al Brocken (1) o a Eblis (2). Ahora el sátiro y la ménade escondidos pueden redescubrirse uno a otro y unirse. Sí, quién puede evitar amar el carnaval, cuando en él todas las deudas son pagadas, expiados o cometidos todos los crímenes, todos los deseos ilícitos saciados —¿sin culpa o premeditación, sin las penas que imponen la conciencia o la sociedad?</p>
+         <p><name type="personAddName">Lawrence Durrell</name></p>
+          <p>("Balthazar")</p>
+         </div>
+
+
+
+
+
+      </body>
+  </text>
+</TEI>
