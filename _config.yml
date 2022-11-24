@@ -13,9 +13,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Luz de Máscaras
-email: jjmesaz@eafit.edu.co
+email: andrearodriguez1702@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Actualización del artículo Luz de Máscaras, publicado en 1959 por la revista Mito. La edición hizo la digitalización del texto y el marcado. Además, recopiló una serie de imágenes no presentes en la versión original y enmendó algunas erratas. Por último, se elaboró una reseña crítica del contenido.
+  Digitalización del artículo Luz de Máscaras, publicado en 1959 por la revista Mito. Esta edición hizo la transcripción del texto y el marcado. Además, recopiló una serie de imágenes no presentes en la versión original y enmendó algunas erratas. Por último, se elaboró una reseña crítica del contenido.
 baseurl: "/mith301-project" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
